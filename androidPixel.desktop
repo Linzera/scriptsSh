@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Android Pixel 2 Simulator
+Exec=/home/rsmelo/Documents/scripts/Pixel2/pixel2.sh
+Icon=/home/rsmelo/Documents/scripts/Pixel2/pixel2.png
+Terminal=false

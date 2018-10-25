@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Android iPhone Simulator
+Exec=/home/rsmelo/Documents/scripts/iPhone/iPhone.sh
+Icon=/home/rsmelo/Documents/scripts/iPhone/iPhone.png
+Terminal=false
